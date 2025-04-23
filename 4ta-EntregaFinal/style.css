@@ -1,0 +1,59 @@
+body {
+    background-color: #f5f5d6;
+    color: #333;
+    margin: 0;
+    padding: 0 20px;
+}
+
+
+h1.Tavs {
+    text-align: center;
+    color: #000000;
+    margin-top: 30px;
+}
+
+
+#boton {
+    display: block;
+    margin: 20px auto;
+    background-color: #7e57c2;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#boton:hover {
+    background-color: #673ab7;
+}
+
+
+h2 {
+    text-align: center;
+    color: #444;
+    margin-top: 40px;
+}
+
+
+#lista-stock {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    padding: 20px;
+}
+
+
+#lista-stock div {
+    background-color: white;
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    cursor: pointer;
+}
+
+#lista-stock div:hover {
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+}

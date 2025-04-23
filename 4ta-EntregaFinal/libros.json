@@ -1,0 +1,26 @@
+[
+    {
+    "titulo": "El país de las últimas cosas",
+    "autor": "Paul Auster",
+    "precio": 20000,
+    "stock": 30
+    },
+    {
+    "titulo": "La música del azar",
+    "autor": "Paul Auster",
+    "precio": 15000,
+    "stock": 30
+    },
+    {
+    "titulo": "Como me enamoré de Nicolás Cage",
+    "autor": "Carla Quevedo",
+    "precio": 350000,
+    "stock": 100
+    },
+    {
+    "titulo": "Ser feliz era esto",
+    "autor": "Eduardo Sacheri",
+    "precio": 27000,
+    "stock": 57
+    }
+]
